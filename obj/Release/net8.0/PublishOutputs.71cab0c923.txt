@@ -1,0 +1,7 @@
+D:\Kiran\azure\.netapp\bin\Publish\.netapp.exe
+D:\Kiran\azure\.netapp\bin\Publish\appsettings.Development.json
+D:\Kiran\azure\.netapp\bin\Publish\appsettings.json
+D:\Kiran\azure\.netapp\bin\Publish\.netapp.dll
+D:\Kiran\azure\.netapp\bin\Publish\.netapp.deps.json
+D:\Kiran\azure\.netapp\bin\Publish\.netapp.runtimeconfig.json
+D:\Kiran\azure\.netapp\bin\Publish\.netapp.pdb
